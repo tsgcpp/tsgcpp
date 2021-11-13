@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- ❤️ Favorite: Unity, C#
+- 👀 Tech blog: [すぎしーのXRと3DCG](https://tsgcpp.hateblo.jp/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsgcpp)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsgcpp)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tsgcpp/tsgcpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
